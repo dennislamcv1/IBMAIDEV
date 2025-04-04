@@ -1,4 +1,5 @@
-# IBMALDev
+# IBMALDEV (10 course series)
+
 ## IBM AI Developer Professional Certificate
 
 As Artificial intelligence (AI) and generative AI revolutionize our world, the demand for AI Software Developers with the right cutting-edge skills is soaring. This IBM AI Developer Professional Certificate will equip you with sought-after expertize in building AI-powered chatbots and apps and enable you to launch your AI career in just 6 months. No prior AI or programming experience required. 
